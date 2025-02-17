@@ -1,0 +1,11 @@
+[package]
+name = "simtfl-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.9.0"
+rand_pcg = "0.9.0"
+rand_chacha = "0.9.0"
+sha2 = "0.10.8"
+static_assertions = "1.1.0"
